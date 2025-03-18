@@ -2,7 +2,6 @@
 ## Pelagic Community Structure: Interannual Variability and Long-Term Change in Pelagic Community Structure Across a Latitudinal Gradient
 ### LTER Pelagic Synthesis Working Group
 
-**Overview of the Pelagic Synthesis Working Group**  
 The Pelagic Community Structure Synthesis Working Group investigates interannual variability and long-term changes in pelagic community structure across a latitudinal gradient. Recent synthesis efforts have identified both similarities and differences in how pelagic marine ecosystems respond to cyclical and long-term environmental changes. This working group aims to test conceptual models describing how pelagic communities respond to stochastic and long-term environmental shifts by leveraging comparative data from four Long-Term Ecological Research (LTER) sites:
 * CCE – California Current Ecosystem
 * NES – Northeast U.S. Shelf
